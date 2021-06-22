@@ -11,4 +11,4 @@ Easy-to-play game written in pure JS, but possibly this is not what you want to 
 4. The player can choose to 'Hold', which means that his ROUND score gets added to his GLBAL score. After that, it's the next player's turn.
 5. The first player to reach 100 points on GLOBAL score wins the game.
 
-#
+
