@@ -1,5 +1,5 @@
 # The Pig-game 🐷
-Fun 2 player game with the dice in the center 🎲 . Always this stupid random dice, right?
+Fun 2 player game with the dice in the center🎲 . Always this stupid random dice, right?
 
 Easy-to-play game written in pure JS, but possibly this is not what you want to know about but more about the rules of the game.
 
